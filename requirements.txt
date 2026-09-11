@@ -1,0 +1,5 @@
+gradio==4.26.0
+duckduckgo-search==5.3.0
+requests==2.31.0streamlit==1.32.0
+duckduckgo-search==5.3.0
+requests==2.31.0
